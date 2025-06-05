@@ -12,6 +12,7 @@ string RemoveDuplicateChart(string str){
      }
      return result;
 }
+
 int main(){
 
     string str;
